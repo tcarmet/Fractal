@@ -6,11 +6,11 @@
 #    By: tcarmet <marvin@42.fr>                     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2015/02/25 16:48:52 by tcarmet           #+#    #+#              #
-#    Updated: 2015/02/25 16:55:26 by tcarmet          ###   ########.fr        #
+#    Updated: 2015/02/26 00:23:31 by tcarmet          ###   ########.fr        #
 #                                                                              #
 #******************************************************************************#
 
-DEBUG	= no
+DEBUG	= yes
 ifeq ($(DEBUG),no)
 	CFLAGS=-Wall -Wextra -Werror
 else
