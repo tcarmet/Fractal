@@ -6,12 +6,12 @@
 #    By: tcarmet <marvin@42.fr>                     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2015/02/25 16:48:52 by tcarmet           #+#    #+#              #
-#    Updated: 2015/02/26 00:23:31 by tcarmet          ###   ########.fr        #
+#    Updated: 2015/02/26 00:25:59 by tcarmet          ###   ########.fr        #
 #                                                                              #
 #******************************************************************************#
 
-DEBUG	= yes
-ifeq ($(DEBUG),no)
+FAST	= yes
+ifeq ($(FAST),no)
 	CFLAGS=-Wall -Wextra -Werror
 else
 	CFLAGS= -Wall -Wextra -Werror -Ofast
@@ -42,8 +42,8 @@ $(NAME): $(OBJS) $(INCS)
 	echo "\\033[1;32mSuccess.\\033[0;39m"
 
 $(OBJS): $(SRCS)
-ifeq ($(DEBUG),yes)
-		echo "\\033[1;31mDEBUG COMPILATION.. (no flags except -g)\\033[0;39m"
+ifeq ($(FAST),yes)
+		echo "\\033[1;31mOFAST FLAG COMPILATION.. (all flags are on)\\033[0;39m"
 else
 		echo "\\033[1;31mCompilation with -Wall -Wextra -Werror...\\033[0;39m"
 endif
