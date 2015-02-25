@@ -1,6 +1,6 @@
 # Fractal
 
-<img align="right"  src="http://imgur.com/qVKmwPP" width="45%" />
+<img align="right"  src="http://i.imgur.com/qVKmwPP.png" width="45%" />
 This is a project of Ecole 42
 
 Available fractal : Julia, Mandelbrot, Rabbit, and Chromosome
