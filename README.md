@@ -27,7 +27,7 @@ This project was made with : [Zinzin42](https://github.com/zinzin42), [Y0ja](htt
 <strong>Move</strong>
 </td>
 <td width="14%" align="center" cellpadding="0">
-<strong size="5">text<strong></ins>
+<strong size="5">Iterations<strong></ins>
 </td>
 <td width="14%" align="center" cellpadding="0">
 <strong>Change colors</strong>
