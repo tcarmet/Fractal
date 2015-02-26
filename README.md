@@ -17,7 +17,23 @@ This project was made with : [Zinzin42](https://github.com/zinzin42), [Y0ja](htt
 <table widht="100%">
 <thead>
 <tr>
-<td widht ="30%" height="60px">
-<td widht ="14%" align="center" cellpadding="0">
-<strong>Scroll UP/DOWN</strong>
+<td widht ="30%" height="60px" align="center" cellpadding="0">
+<strong>mouse capture</strong>
 </td>
+<td widht ="14%" align="center" cellpadding="0">
+<strong>Zoom</strong>
+</td>
+<td width="14%" align="center" cellpadding="0">
+<strong>Move</strong>
+</td>
+<td width="14%" align="center" cellpadding="0">
+<strong size="5"/strong></ins>
+</td>
+<td width="14%" align="center" cellpadding="0">
+<strong>Change colors</strong>
+</td>
+<td width="14%" align="center" cellpadding="0">
+<strong>Init Fractal</strong>
+</td>
+</tr>
+</thead>
