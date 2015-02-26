@@ -18,7 +18,7 @@ This project was made with : [Zinzin42](https://github.com/zinzin42), [Y0ja](htt
 <thead>
 <tr>
 <td widht ="30%" height="60px" align="center" cellpadding="0">
-<strong>stop mouse capture</strong>
+<strong>Stop mouse capture</strong>
 </td>
 <td widht ="14%" align="center" cellpadding="0">
 <strong>Zoom</strong>
@@ -39,7 +39,7 @@ This project was made with : [Zinzin42](https://github.com/zinzin42), [Y0ja](htt
 </thead>
 <tbody>
 <tr>
-<td valign="top" height="60px">Left click mouse</td>
+<td valign="top" align="center">Left click mouse</td>
 <td valign="top" align="center">Scroll up/down</td>
 <td valign="top" align="center">Arrows keys</td>
 <td valign="top" align="center">'*' or '/' keys</td>
