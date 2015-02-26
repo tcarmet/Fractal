@@ -18,7 +18,7 @@ This project was made with : [Zinzin42](https://github.com/zinzin42), [Y0ja](htt
 <thead>
 <tr>
 <td widht ="30%" height="60px" align="center" cellpadding="0">
-<strong>mouse capture</strong>
+<strong>stop mouse capture</strong>
 </td>
 <td widht ="14%" align="center" cellpadding="0">
 <strong>Zoom</strong>
@@ -47,3 +47,4 @@ This project was made with : [Zinzin42](https://github.com/zinzin42), [Y0ja](htt
 <td valign="top" align="center">Space</td>
 </tr>
 </table>
+</tbody>
