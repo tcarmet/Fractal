@@ -37,3 +37,13 @@ This project was made with : [Zinzin42](https://github.com/zinzin42), [Y0ja](htt
 </td>
 </tr>
 </thead>
+<tbody>
+<tr>
+<td valign="top" height="60px">Left click mouse</td>
+<td valign="top" align="center">Scroll up/down</td>
+<td valign="top" align="center">Arrows keys</td>
+<td valign="top" align="center">'*' or '/' keys</td>
+<td valign="top" align="center">1, 2, 3, 4 or 5</td>
+<td valign="top" align="center">Space</td>
+</tr>
+</table>
