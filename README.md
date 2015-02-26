@@ -33,7 +33,7 @@ This project was made with : [Zinzin42](https://github.com/zinzin42), [Y0ja](htt
 <strong>Change colors</strong>
 </td>
 <td width="14%" align="center" cellpadding="0">
-<strong>Init Fractal</strong>
+<strong>Reset Fractal</strong>
 </td>
 </tr>
 </thead>
