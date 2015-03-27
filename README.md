@@ -1,12 +1,14 @@
 # Fractal
 
 <img align="right"  src="http://i.imgur.com/qVKmwPP.png" width="45%" />
-This is a project of [Ecole 42](http://www.42.fr)
+This is a project of <a href="http://www.42.fr/" target="_blank" >Ecole 42</a>
 
 Available fractal : Julia, Mandelbrot, Rabbit, and Chromosome
 
 
-This project was made with : [Zinzin42](https://github.com/zinzin42), [Y0ja](https://github.com/y0ja)
+This project was made with : <a href="https://github.com/srabah" target="_blank" \
+>srabah</a>, <a href="https://github.com/y0ja" target="_blank" \
+>Y0ja</a>
 <br /><br /><br /><br /><br /><br /><br /><br />
 ## Usage
 	$>  make
