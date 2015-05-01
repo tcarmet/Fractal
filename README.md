@@ -6,7 +6,7 @@ This is a project of <a href="http://www.42.fr/" target="_blank" >Ecole 42</a>
 Available fractal : Julia, Mandelbrot, Rabbit, and Chromosome
 
 
-This project was made with : <a href="https://github.com/srabah" target="_blank" >srabah</a>, <a href="https://github.com/y0ja" target="_blank" >Y0ja</a>
+This project was made with : <a href="https://github.com/zinzin42" target="_blank" >zinzin42</a>, <a href="https://github.com/y0ja" target="_blank" >Y0ja</a>
 <br /><br /><br /><br /><br /><br /><br /><br />
 ## Usage
 	$>  make
